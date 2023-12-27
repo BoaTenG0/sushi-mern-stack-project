@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Useful links",
+    "links": [
+      {
+        "name": "About us",
+        "path": "/about"
+      },
+      {
+        "name": "Events",
+        "path": "/about"
+      },
+      {
+        "name": "Blogs",
+        "path": "/about"
+      },
+      {
+        "name": "FAQ",
+        "path": "/about"
+      }
+    ]
+  },
+  {
+    "name": "Main Menu",
+    "links": [
+      {
+        "name": "Home",
+        "path": "/"
+      },
+      {
+        "name": "Offers",
+        "path": "/about"
+      },
+      {
+        "name": "Menus",
+        "path": "/about"
+      },
+      {
+        "name": "Reservation",
+        "path": "/about"
+      }
+    ]
+  },
+  {
+    "name": "Contact Us",
+    "links": [
+      {
+        "name": "example@email.com",
+        "path": "/about"
+      },
+      {
+        "name": "+233 5444 035 17",
+        "path": "/about"
+      },
+      {
+        "name": "Social media",
+        "path": "/about"
+      }
+    ]
+  }
+]
